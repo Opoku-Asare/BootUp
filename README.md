@@ -11,4 +11,7 @@ This exercise goal is for you to familiarise yourself with Android Studio and do
 * Modify the manifest to add the existence of this receiver. Use the action BOOT_COMPLETED and the DEFAULT category in the intent-filter of the receiver. Also add the permission to use the vibration and allow receiving the boot completed.
 * Create a BootUpUI class that extends Activity. This activity can be without any specific implementation. Add the existence of this activity to the manifest, with an icon to your app on the launcher. Run the application. You should see a white screen. This is OK. We just want Android to know that from now on, this is a valid application and the manifest should be accepted.
 
+##Highlights
+* Vibrator Service and Manifiest configuration
+* BroadCast Receiever and Manifest configuration
 
